@@ -7,8 +7,7 @@ def square_array(array)
     length.times { |integer| }
     array.push(new_integer * new_integer)
     count += 1
-  end
-      end
+        end
     end
   new_array
 end
